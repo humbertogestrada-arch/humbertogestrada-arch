@@ -39,7 +39,7 @@ High-Frequency Trading system for triangular arbitrage.
 ### Open Source Projects
 Check out my public code regarding Logistics & Optimization:
 
-* [**Predictive Logistics Navigation (MVP)**](LINK_A_TU_REPO_DE_LOGISTICA)
+* [**Predictive Logistics Navigation (MVP)**](https://github.com/humbertogestrada-arch/Logistica-predictiva-Predictive-logistics)
   * **Description:** B2B route optimization engine using Graph Theory and Random Forest to predict congestion based on exogenous variables.
   * **Stack:** Python, NetworkX, OSMnx, Streamlit.
 
