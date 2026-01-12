@@ -44,6 +44,6 @@ Check out my public code regarding Logistics & Optimization:
   * **Stack:** Python, NetworkX, OSMnx, Streamlit.
 
 ---
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](www.linkedin.com/in/humberto-gonzalez-estrada-5b768b3a4)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/humberto-gonzalez-estrada-5b768b3a4)
 
 
