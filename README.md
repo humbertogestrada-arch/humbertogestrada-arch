@@ -47,3 +47,52 @@ Check out my public code regarding Logistics & Optimization:
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/humberto-gonzalez-estrada-5b768b3a4)
 
 
+### Hola, soy Humberto 👋
+**Gerente de Producto Técnico y Desarrollador Cuantitativo**
+
+Especialista en construir productos "End-to-End" que combinan Matemáticas Financieras, Inteligencia Artificial y Arquitectura de Software escalable.
+Enfoque: Fintech, Analítica Deportiva y Optimización Logística.
+
+---
+
+### 🛠 Stack Tecnológico
+* **Lenguajes:** Python (Pandas, NumPy, AsyncIO), SQL.
+* **Datos e IA:** Scikit-Learn, NetworkX (Teoría de Grafos), OpenAI API, Modelos de Simulación.
+* **Infraestructura:** Vultr Cloud, Linux, Docker, Microservicios.
+* **Negocio:** Estrategia de Producto, Economía Unitaria, SaaS B2B.
+
+---
+
+### 🚀 Proyectos Destacados (Portafolio)
+
+#### 🏆 Asesor FutBot (SaaS) - *Propiedad Intelectual / En Producción*
+Plataforma de análisis deportivo con IA Híbrida.
+* **Arquitectura:** Python Serverless + IA Híbrida (LLMs + Modelos de Poisson).
+* **Tecnología:** Webhooks de Telegram, Stripe API, Procesamiento en tiempo real.
+* **Impacto:** Reducción del 89% en costos operativos mediante caché inteligente.
+
+#### ⚖️ AuditorP (Fintech/LegalTech) - *Propiedad Intelectual / En Desarrollo*
+Suite B2B de auditoría fiscal automatizada (México).
+* **Core:** Procesamiento masivo de XML (CFDI 4.0).
+* **Algoritmos:** Detección de fraude usando Ley de Benford y listas negras (EFOS).
+* **Output:** Generación automática de dictámenes financieros (PDF/Excel).
+
+#### 📉 HFT Crypto Arbitrage - *Propiedad Intelectual / Repo Privado*
+Sistema de trading de alta frecuencia para arbitraje triangular.
+* **Ingeniería:** Microservicios de baja latencia en Tokio (Vultr).
+* **Innovación:** "Defensa Topológica" (TDA) para gestión de riesgos de mercado.
+* **Tech:** AsyncIO, WebSockets, Grafos Dirigidos.
+
+---
+
+### 📂 Código Abierto (Open Source)
+A continuación puedes ver mi código público sobre Logística y Optimización:
+
+* [**Sistema de Navegación Logística Predictiva (MVP)**](https://github.com/humbertogestrada-arch/Logistica-predictiva-Predictive-logistics)
+  * **Descripción:** Motor de optimización de rutas B2B usando Teoría de Grafos y Random Forest para predecir congestión basada en variables exógenas.
+  * **Stack:** Python, NetworkX, OSMnx, Streamlit.
+
+---
+[<img src="https://img.shields.io/badge/Conectar-LinkedIn-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/humberto-gonzalez-estrada-5b768b3a4)
+
+
