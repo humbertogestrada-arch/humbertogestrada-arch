@@ -63,21 +63,21 @@ Enfoque: Fintech, Analítica Deportiva y Optimización Logística.
 
 ---
 
-### 🚀 Proyectos Destacados (Portafolio)
+### Proyectos Destacados (Portafolio)
 
-#### 🏆 Asesor FutBot (SaaS) - *Propiedad Intelectual / En Producción*
+#### Asesor FutBot (SaaS) - *Propiedad Intelectual / En Producción*
 Plataforma de análisis deportivo con IA Híbrida.
 * **Arquitectura:** Python Serverless + IA Híbrida (LLMs + Modelos de Poisson).
 * **Tecnología:** Webhooks de Telegram, Stripe API, Procesamiento en tiempo real.
 * **Impacto:** Reducción del 89% en costos operativos mediante caché inteligente.
 
-#### ⚖️ AuditorP (Fintech/LegalTech) - *Propiedad Intelectual / En Desarrollo*
+#### AuditorP (Fintech/LegalTech) - *Propiedad Intelectual / En Desarrollo*
 Suite B2B de auditoría fiscal automatizada (México).
 * **Core:** Procesamiento masivo de XML (CFDI 4.0).
 * **Algoritmos:** Detección de fraude usando Ley de Benford y listas negras (EFOS).
 * **Output:** Generación automática de dictámenes financieros (PDF/Excel).
 
-#### 📉 HFT Crypto Arbitrage - *Propiedad Intelectual / Repo Privado*
+#### HFT Crypto Arbitrage - *Propiedad Intelectual / Repo Privado*
 Sistema de trading de alta frecuencia para arbitraje triangular.
 * **Ingeniería:** Microservicios de baja latencia en Tokio (Vultr).
 * **Innovación:** "Defensa Topológica" (TDA) para gestión de riesgos de mercado.
@@ -85,7 +85,7 @@ Sistema de trading de alta frecuencia para arbitraje triangular.
 
 ---
 
-### 📂 Código Abierto (Open Source)
+### Código Abierto (Open Source)
 A continuación puedes ver mi código público sobre Logística y Optimización:
 
 * [**Sistema de Navegación Logística Predictiva (MVP)**](https://github.com/humbertogestrada-arch/Logistica-predictiva-Predictive-logistics)
