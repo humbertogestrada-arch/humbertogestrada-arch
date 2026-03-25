@@ -1,4 +1,4 @@
-### Hi, I'm Humberto 👋
+### Hi, I'm Humberto 
 **Technical Product Manager & Quant Developer**
 
 I specialize in building End-to-End products that combine Financial Mathematics, Hybrid AI, and scalable Software Architecture.
@@ -47,7 +47,7 @@ Check out my public code regarding Logistics & Optimization:
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/humberto-gonzalez-estrada-5b768b3a4)
 
 
-### Hola, soy Humberto 👋
+### Hola, soy Humberto 
 **Gerente de Producto Técnico y Desarrollador Cuantitativo**
 
 Especialista en construir productos "End-to-End" que combinan Matemáticas Financieras, Inteligencia Artificial y Arquitectura de Software escalable.
