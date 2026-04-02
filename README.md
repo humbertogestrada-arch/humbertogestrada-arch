@@ -21,6 +21,7 @@ AI-Powered Sports Analytics Platform.
 * **Architecture:** Serverless Python + Hybrid AI (LLMs + Poisson Models).
 * **Key Tech:** Telegram Webhooks, Stripe API, Real-time odds processing.
 * **Impact:** Reduced operating costs by 89% via intelligent caching.
+* https://github.com/humbertogestrada-arch/PronosFutbol-AsesorFutBot-
 
 #### AuditorP (Fintech/LegalTech) - *Proprietary / In Development*
 B2B Fiscal Audit Suite for Mexican regulations.
