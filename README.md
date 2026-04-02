@@ -23,6 +23,9 @@ AI-Powered Sports Analytics Platform.
 * **Impact:** Reduced operating costs by 89% via intelligent caching.
 * https://github.com/humbertogestrada-arch/PronosFutbol-AsesorFutBot-
 
+* Only for non-commercial and portfolio here´s the link to the webpage:
+https://pronosfutbol-web.vercel.app/
+
 #### AuditorP (Fintech/LegalTech) - *Proprietary / In Development*
 B2B Fiscal Audit Suite for Mexican regulations.
 * **Core:** Mass XML processing (CFDI 4.0).
@@ -72,6 +75,9 @@ Plataforma de análisis deportivo con IA Híbrida.
 * **Tecnología:** Webhooks de Telegram, Stripe API, Procesamiento en tiempo real.
 * **Impacto:** Reducción del 89% en costos operativos mediante caché inteligente.
 * https://github.com/humbertogestrada-arch/PronosFutbol-AsesorFutBot-
+
+* Solo para portafolio (no es promoción) aqui esta el link de la página web:
+https://pronosfutbol-web.vercel.app/
 
 #### AuditorP (Fintech/LegalTech) - *Propiedad Intelectual / En Desarrollo*
 Suite B2B de auditoría fiscal automatizada (México).
