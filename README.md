@@ -6,7 +6,7 @@ Focus: Fintech, Sports Analytics, and Logistics Optimization.
 
 ---
 
-### 🛠 Tech Stack
+###  My Tech Stack
 * **Languages:** Python (Pandas, NumPy, AsyncIO), SQL.
 * **Data & AI:** Scikit-Learn, NetworkX (Graph Theory), OpenAI API, Simulation Models.
 * **Infrastructure:** Vultr Cloud, Linux, Docker, Microservices.
@@ -56,7 +56,7 @@ Enfoque: Fintech, Analítica Deportiva y Optimización Logística.
 
 ---
 
-### 🛠 Stack Tecnológico
+### Mi Stack Tecnológico
 * **Lenguajes:** Python (Pandas, NumPy, AsyncIO), SQL.
 * **Datos e IA:** Scikit-Learn, NetworkX (Teoría de Grafos), OpenAI API, Modelos de Simulación.
 * **Infraestructura:** Vultr Cloud, Linux, Docker, Microservicios.
@@ -71,6 +71,7 @@ Plataforma de análisis deportivo con IA Híbrida.
 * **Arquitectura:** Python Serverless + IA Híbrida (LLMs + Modelos de Poisson).
 * **Tecnología:** Webhooks de Telegram, Stripe API, Procesamiento en tiempo real.
 * **Impacto:** Reducción del 89% en costos operativos mediante caché inteligente.
+* https://github.com/humbertogestrada-arch/PronosFutbol-AsesorFutBot-
 
 #### AuditorP (Fintech/LegalTech) - *Propiedad Intelectual / En Desarrollo*
 Suite B2B de auditoría fiscal automatizada (México).
